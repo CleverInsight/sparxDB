@@ -1,5 +1,5 @@
-sparxDB
-==========================
+# sparxDB
+sparxDB is a implementation of hybrid datastorage view using NoSQL type inside traditional databases.
 
 [![Build Status](https://travis-ci.org/bastinroibn/sparxDB.png?branch=master)](https://travis-ci.org/bastinroibn/sparxDB)
 [![Requires.io](https://requires.io/github/bastinroibn/sparxDB/requirements.svg?branch=master)](https://requires.io/github/bastinroibn/sparxDB/requirements?branch=master)
@@ -53,3 +53,4 @@ To see an html output of coverage open ```htmlcov/index.html``` after running th
 
 There is a ```.travis.yml``` file that is set up to run your tests for python 2.7
 and python 3.2, should you choose to use it.
+
