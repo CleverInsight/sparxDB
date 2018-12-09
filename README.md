@@ -1,10 +1,9 @@
 # sparxDB
 sparxDB is a implementation of hybrid datastorage view using NoSQL type inside traditional databases.
 
-[![Build Status](https://travis-ci.org/bastinroibn/sparxDB.png?branch=master)](https://travis-ci.org/bastinroibn/sparxDB)
-[![Requires.io](https://requires.io/github/bastinroibn/sparxDB/requirements.svg?branch=master)](https://requires.io/github/bastinroibn/sparxDB/requirements?branch=master)
+[![Build Status](https://travis-ci.org/CleverInsight/sparxDB.png?branch=master)](https://travis-ci.org/CleverInsight/sparxDB)
 
-Boilerplate for a Python Package
+
 
 ## Package
 
