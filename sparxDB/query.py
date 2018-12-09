@@ -13,18 +13,30 @@ class Query:
 		pass
 
 	def update(self):
+		"""
+		`Update` operation using SQL queries	
+		"""
 		pass
 
 
 	def fetch(self):
+		"""
+		`Fetch` operation using SQL queries	
+		"""
 		pass
 
 
 	def find(self):
+		"""
+		`Find` operation using SQL queries	
+		"""
 		pass
 
 
 	def delete(self):
+		"""
+		`Delete` operation using SQL queries	
+		"""
 		pass
 
 
