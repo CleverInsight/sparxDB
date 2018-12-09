@@ -8,7 +8,7 @@ class Query:
 
 	def insert(self):
 		"""
-		
+		`Insert` operation using SQL queries	
 		"""
 		pass
 
